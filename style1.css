@@ -1,0 +1,91 @@
+body{
+	background-color: #ffffff;
+	font-family: sans-serif;
+	margin:0px;
+	padding:0;
+}
+
+.nav{height:50px;
+	width: 100%;
+	background-color: #29b6f6;
+	color: white;
+	padding-left: 10px;
+	text-align:right;S
+}
+.nav h2{
+	float: left;
+	font-size: 2em;
+	margin: 10px;
+	
+}
+.nav li{
+	font-size: 15px;
+	padding: 5px;
+	display:inline;
+	list-style-type: none;
+	color:#ffffff;
+	margin-right:10px;
+		
+}	
+.nav a{
+	color:#ffffff;
+	text-decoration:none;
+}
+.intro img{
+	width:10%;
+	border-radius:50%;
+	border:solid 10px rgba (0,0,0,0.7);
+	border-color:#000000;
+	border-style: solid;
+}
+.intro h1{
+	font-size: 3em;
+	color:#000000;
+	text-align:center;
+}
+.intro h5{
+	font-size:2em;
+	text-align:center;
+	color:#686868;
+}
+.aboutc {
+	background-color: #BB00f0;
+	padding:10px 0 50px 0;/*top left bottom right*/
+}
+.about {
+	width: 75%;
+	margin:auto;
+}
+.myskills {
+	background-color: #Bdd0f0;
+	padding:10px 0 50px 0;/*top left bottom right*/
+}
+.skill{
+	width: 75%;
+	margin:auto;
+}
+.socials {
+	background-color: #ffffff;
+	padding:10px 0 50px 0;/*top left bottom right*/
+}
+.social{
+	width: 75%;
+	margin:auto;
+}
+.quals {
+	background-color: #ff00gh;
+	padding:10px 0 50px 0;/*top left bottom right*/
+}
+.qualification{
+	width: 75%;
+	margin:auto;
+}
+.button{
+	width:200px;
+	height:50px;
+	text-align:center;
+	font-size:1.4;
+	padding:8px;
+	border-radius:3px;
+	box-shadow:#
+}
